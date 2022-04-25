@@ -1,0 +1,15 @@
+.style
+  table {
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    width: 70%;
+  }
+  
+  td, th {
+    border: 1px solid #c38c0d;
+    text-align: left;
+    padding: 14px;
+  }
+ 
+  
+ 
