@@ -10,6 +10,14 @@
     text-align: left;
     padding: 14px;
   }
- 
-  
+  /* mouse over link */
+a:hover {
+  color: rgb(16, 172, 81);
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
  
